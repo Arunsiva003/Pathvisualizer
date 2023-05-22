@@ -1,47 +1,7 @@
 # Pathfinding Visualizer
 A pathfinding visualizer made in Python and Pygame. This project aims to provide a fun and interactive way to learn about popular pathfinding algorithms such as Dijkstra's, A* and other [supported algorithms](#supported-algorithms).
 
-https://user-images.githubusercontent.com/67793598/218127466-38274684-5eb6-44e9-b842-29720a26dd54.mp4
 
-## Screenshots
-<table border='0px'>
-    <tr>
-        <td>
-            <img src='screenshots/AStar.png?raw=true' 
-                 alt="A* Search"
-                 width='360'>
-        </td>
-        <td>
-            <img src='screenshots/Dijkstras.png?raw=true' 
-                 alt="Dijkstra's Search"
-                 width='360'>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <img src='screenshots/GreedyBFS.png?raw=true' 
-                 alt="Greedy Best-First Search"
-                 width='360'>
-        </td>
-        <td>
-            <img src='screenshots/BFS.png?raw=true' 
-                 alt="Breadth-First Search"
-                 width='360'>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <img src='screenshots/DFS.png?raw=true' 
-                 alt="Depth-First Search"
-                 width='360'>
-        </td>
-        <td>
-            <img src='screenshots/Results.png?raw=true' 
-                 alt="Results"
-                 width='360'>
-        </td>
-    </tr>
-</table>
 
 ## Features
 * Visualizes popular pathfinding algorithms such as Dijkstra's and A*.
@@ -79,10 +39,3 @@ Each algorithm uses a different approach to finding the shortest path between tw
 1. `--cell-size`
 Usage: `python run.pyw --cell-size:<int>`
 
-## Contributing
-This project is open to contributions, bug reports, and suggestions. If you've found a bug or have a suggestion, please open an issue.
-
-# License
-This project is licensed under the MIT License.
-
-Enjoy visualizing pathfinding algorithms!
